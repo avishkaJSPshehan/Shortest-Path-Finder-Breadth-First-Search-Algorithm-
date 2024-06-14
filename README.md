@@ -21,22 +21,22 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/maze-solver.git
+   git clone https://github.com/avishkaJSPshehan/Shortest-Path-Finder-Breadth-First-Search-Algorithm-.git
    cd maze-solver
    ```
 
 ## Usage
 
-1. Run the `maze_solver.py` script:
+1. Run the `main.py` script:
    ```bash
-   python maze_solver.py
+   python main.py
    ```
 
 2. The program will display the maze and visually find the shortest path from `O` to `X`.
 
 ## Code Explanation
 
-### `maze_solver.py`
+### `main.py`
 
 This is the main script containing the logic for the maze solver.
 
